@@ -1,0 +1,39 @@
+{
+  "employee": [
+    {
+      "Name": "Ramya",
+      "DOB": "19/06/1989",
+      "Height": "170cm",
+      "City": "Hyderbad",
+      "State": "Telangana"
+    },
+    {
+      "Name": "swathi",
+      "DOB": "29/09/2000",
+      "Height": "156cm",
+      "City": "Chennai",
+      "State": "TamilNadu"
+    },
+    {
+      "Name": "Ramesh",
+      "DOB": "06/12/1997",
+      "Height": "178cm",
+      "City": "Banglore",
+      "State": "Karnataka"
+    },
+    {
+      "Name": "Rajesh",
+      "DOB": "08/09/1999",
+      "Height": "165cm",
+      "City": "Vizag",
+      "State": "AndhraPradesh"
+    },
+    {
+      "Name": "Sam",
+      "DOB": "16/06/1959",
+      "Height": "166cm",
+      "City": "Chennai",
+      "State": "TamilNadu"
+    }
+  ]
+}

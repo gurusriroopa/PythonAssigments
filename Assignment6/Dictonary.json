@@ -1,0 +1,32 @@
+{
+  "state_captials": [
+    {
+      "Captials": "Itanagar",
+      "State": "Arunachal Pradesh"
+    },
+    {
+      "Captials": "Dispur",
+      "State": "Assam"
+    },
+    {
+      "Captials": "Gandhi Nagar",
+      "State": "Gujarat "
+    },
+    {
+      "Captials": "Raipur",
+      "State": "Chattisgarh"
+    },
+    {
+      "Captials": "Ranchi",
+      "State": "Jharkhand"
+    },
+    {
+      "Captials": "Lucknow",
+      "State": "UttarPradesh"
+    },
+    {
+      "Captials": "Mumbai",
+      "State": "Maharashtra"
+    }
+  ]
+}
