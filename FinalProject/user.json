@@ -1,0 +1,14 @@
+[
+  {
+    "id": 1,
+    "name": "swathi",
+    "password": "swathi@123456_7890$",
+    "age": 25,
+    "Email": "swarooparani121@gmail.com",
+    "phone_number": "8056129066",
+    "address": "Nellore",
+    "order history": {
+      "02-28-2023": ["Mirchi Bajji"]
+    }
+  }
+]
